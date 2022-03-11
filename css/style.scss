@@ -163,21 +163,21 @@ img {
 .lead-img {
   background-image: url(../images/blur-nature-green-park-with-bokeh-sun-light-abstract-background-copy-space-of-travel-adventure-and-environment-concept-vintage-tone-filter-color-style.jpg);
   background-size: cover;
-  width: 48%;
+  width: 45%;
   min-height: 400px;
   box-shadow: 5px 5px 5px  #ccc;
 }
 
 .lead_area {
   justify-content: space-around;
-  width: 52%;
+  width: 50%;
   writing-mode: vertical-rl;
   padding: 30px;
 
   & p {
     padding: 50px 15px 0 15px;
     letter-spacing: 3px;
-    line-height: 3;
+    line-height: 2;
     font-size: 1rem;
     margin: 0;
   }
